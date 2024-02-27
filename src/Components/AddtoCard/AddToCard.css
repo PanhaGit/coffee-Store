@@ -1,0 +1,67 @@
+/* Default styles for all screen sizes */
+/* .ShoppingCart {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  background-color: #fff;
+}
+.menupayment {
+  position: sticky;
+  top: 48px;
+  z-index: 99999;
+} */
+.Shopping_payment {
+  width: 100%;
+  /* background-color: blue; */
+  display: flex;
+  gap: 50px;
+}
+
+.Shopping_payment .listProduct_drink {
+  width: 57%;
+  /* height: 600px; */
+  /* overflow: scroll; */
+  scrollbar-color: #00664195 #d2d2d253;
+}
+
+.Shopping_payment .payment_product_drink {
+  width: 40%;
+  height: 700px;
+  background-color: #cacacc27;
+  border-radius: 7px;
+}
+.imgBox {
+  width: 300px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  /* background-color: aqua; */
+}
+img {
+  width: 80px;
+  height: 100%;
+  object-fit: cover;
+}
+.imgBox h5 {
+  font-size: 17px;
+}
+.subtotal {
+  display: flex;
+  align-items: center;
+  float: right;
+}
+
+@media (max-width: 570px) {
+  .Shopping_payment {
+    display: block;
+    width: 100%;
+  }
+  .Shopping_payment .listProduct_drink {
+    width: 100%;
+  }
+  .Shopping_payment .payment_product_drink {
+    width: 100%;
+    /* background-color: aquamarine;  */
+    /* Changed the background color for phones */
+  }
+}

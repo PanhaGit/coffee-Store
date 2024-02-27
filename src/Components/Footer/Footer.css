@@ -1,0 +1,19 @@
+.lineFooter {
+  width: 100%;
+  height: 2px;
+  margin: 35px 0;
+  background-color: #ccc;
+}
+.iconSize {
+  margin-right: 25px;
+  font-size: 30px;
+  color: #101010;
+}
+.dataTime {
+  margin-top: 10px;
+}
+.dataTime p {
+  font-weight: 500;
+  font-size: 17px;
+  color: #10101080;
+}

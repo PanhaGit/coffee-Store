@@ -1,0 +1,24 @@
+.bg {
+  overflow: hidden;
+  background-color: #b2b267;
+}
+.imageBox {
+  width: 50%;
+  height: 100%;
+}
+.imageBox img {
+  width: 100%;
+}
+p {
+  color: #101010;
+}
+@media (max-width: 570px) {
+  .imageBox {
+    width: 100%;
+    height: 200px;
+  }
+  .imageBox img {
+    object-fit: cover;
+    width: 100%;
+  }
+}

@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menuStyle {
+  /* background-color: #006641; */
+  font-size: 19px;
+}
+.menuStyle li {
+  margin-left: 20px;
+  color: #121212;
+  font-weight: 500;
+  font-family: "Roboto", sans-serif;
+  transition: ease 0.4s;
+  cursor: pointer;
+}
+.menuStyle li:hover {
+  color: #006641;
+}
+
+.map {
+  display: flex;
+  font-weight: bold;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  transition: ease 0.4s;
+}
+.map:hover {
+  color: #006641;
+}
+.map .maps {
+  font-size: 18px;
+  margin-right: 10px;
+  margin-bottom: 2px;
+}
+.map h1 {
+  margin-right: 10px;
+  font-size: 18px;
+}
+.cartToCart {
+  position: relative;
+}
+.addToCardKoi {
+  color: #006641;
+  font-size: 30px;
+  /* padding: 8px 10px; */
+  clip-path: circle(50% at 50% 50%);
+  text-align: center;
+}
+
+.addToCardKoi:hover {
+  background-color: #00664130;
+}
+span {
+  /* background-color: #006641; */
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 90%;
+  top: 0;
+}

@@ -1,0 +1,130 @@
+{
+  "starbusck": [
+    {
+      "id": 1,
+      "img": "../src/assets/ProductsAPI/ColdBrew.png",
+      "price": 3,
+      "name": "A"
+    },
+    {
+      "id": 2,
+      "img": "../src/assets/ProductsAPI/ColdBrew.png",
+      "price": 3.3,
+      "name": "B"
+    },
+    {
+      "id": 3,
+      "img": "../src/assets/ProductsAPI/ColdBrew.png",
+      "price": 2,
+      "name": "C"
+    },
+    {
+      "id": 4,
+      "img": "../src/assets/ProductsAPI/ColdBrew.png",
+      "price": 5,
+      "name": "D"
+    },
+    {
+      "id": 5,
+      "img": "../src/assets/ProductsAPI/ColdBrew.png",
+      "price": 4,
+      "name": "F"
+    }
+  ],
+  "koiThe": [
+    {
+      "id": 1,
+      "img": "../src/assets/ProductsAPI/CacaoBarry.png",
+      "name": "Cacao Barry",
+      "price": 3.2,
+      "title": "Cacao Barry - Rich, decadent treat for all chocolate lovers!",
+      "amount": 1,
+      "brand": "KOI THE"
+    },
+    {
+      "id": 2,
+      "img": "../src/assets/ProductsAPI/BlackTeaMacchiato.png",
+      "name": "Black Tea Macchiato",
+      "price": 3.3,
+      "title": "រសជាតិតែមួយ​គ្មានពីរ Black Tea Macchiato ត្រជាក់ៗ",
+      "amount": 1,
+      "brand": "KOI THE"
+    },
+    {
+      "id": 3,
+      "img": "../src/assets/ProductsAPI/GoldenBubbleMilkTea.png",
+      "name": "Golden Bubble MilkTea",
+      "price": 2.25,
+      "title": "ឃ្លានខ្លាំងណាស់ តើ Golden Bubble Milk Tea, JumBo Milk Tea etc., បានលឺទេ?",
+      "amount": 1,
+      "brand": "KOI THE"
+    },
+    {
+      "id": 4,
+      "img": "../src/assets/ProductsAPI/lychee-green-milk-tea.png",
+      "name": "Lychee Green Milk Tea",
+      "price": 2.25,
+      "title": "ឃ្លានខ្លាំងណាស់ តើ Golden Bubble Milk Tea, JumBo Milk Tea etc., បានលឺទេ?",
+      "amount": 1,
+      "brand": "KOI THE"
+    },
+    {
+      "id": 5,
+      "img": "../src/assets/ProductsAPI/MilkTea.png",
+      "name": "Milk Tea",
+      "price": 2.15,
+      "title": "ឃ្លានខ្លាំងណាស់ តើ Golden Bubble Milk Tea, JumBo Milk Tea etc., បានលឺទេ?",
+      "amount": 1,
+      "brand": "KOI THE"
+    },
+    {
+      "id": 6,
+      "img": "../src/assets/ProductsAPI/OolongTeaMacchiato.png",
+      "name": "Oolong Tea Macchiato",
+      "price": 2.2,
+      "title": "ឃ្លានខ្លាំងណាស់ តើ Golden Bubble Milk Tea, JumBo Milk Tea etc., បានលឺទេ?",
+      "amount": 1,
+      "brand": "KOI THE"
+    },
+    {
+      "id": 7,
+      "img": "../src/assets/ProductsAPI/YakultGreenTea.png",
+      "name": "Yakult Green Tea",
+      "price": 3.5,
+      "title": "ឃ្លានខ្លាំងណាស់ តើ Golden Bubble Milk Tea, JumBo Milk Tea etc., បានលឺទេ?",
+      "amount": 1
+    },
+    {
+      "id": 8,
+      "img": "../src/assets/ProductsAPI/TaroQMilkTea.png",
+      "name": "Taro QMilk Tea",
+      "price": 3.1,
+      "title": "ឃ្លានខ្លាំងណាស់ តើ Golden Bubble Milk Tea, JumBo Milk Tea etc., បានលឺទេ?",
+      "amount": 1,
+      "brand": "KOI THE"
+    }
+  ],
+  "dataShop": [
+    {
+      "id": 1,
+      "img": "../src/assets/API_img/koi.jpg",
+      "name": "KOI The",
+      "title": "ភេសជ្ជៈ តែនិងកាហ្វេតែទឹកដោះគោ",
+      "location": "KOI The Phnom Penh"
+    },
+    {
+      "id": 2,
+      "img": "../src/assets/API_img/browncoffe.jpg",
+      "name": "Brown Coffee",
+      "title": "ភេសជ្ជៈ តែនិងកាហ្វេតែទឹកដោះគោ",
+      "location": "Brown Coffee Phnom Penh"
+    },
+    {
+      "id": 3,
+      "img": "../src/assets/API_img/starbusck.jpg",
+      "name": "Starbusck",
+      "title": "ភេសជ្ជៈ តែនិងកាហ្វេតែទឹកដោះគោ",
+      "location": "Starbusck Phnom Penh"
+    }
+  ]
+}

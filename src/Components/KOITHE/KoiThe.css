@@ -1,0 +1,15 @@
+.FlexBox {
+  display: flex;
+  align-items: center;
+}
+.ImageKOITHE {
+  width: 150px;
+  height: 150px;
+  background-color: aqua;
+  border-radius: 10px;
+}
+.ImageKOITHE img {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+}

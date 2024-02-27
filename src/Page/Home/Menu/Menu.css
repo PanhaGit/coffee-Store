@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Khmer:wght@100..900&display=swap");
+
+.imageS {
+  width: 100%;
+  height: 300px;
+  background-color: aquamarine;
+  overflow: hidden;
+}
+.imageS:hover img {
+  transform: scale(1.02);
+}
+.imageS img {
+  cursor: pointer;
+  transition: all 0.3s;
+  height: 100%;
+}
+.nameShop {
+  font-family: "Roboto", sans-serif;
+}
+.titleShop {
+  font-family: "Noto Sans Khmer", sans-serif;
+  font-size: 18px;
+  letter-spacing: 2px;
+}

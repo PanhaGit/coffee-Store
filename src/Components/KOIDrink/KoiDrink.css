@@ -1,0 +1,66 @@
+.hoverKoi {
+  cursor: pointer;
+  transition: ease 0.3s;
+}
+.hoverKoi:hover {
+  background-color: #61ffc56f;
+  transform: scale(1.05);
+}
+.boxKoiBig {
+  display: flex;
+}
+.boxKoi {
+  display: flex;
+  align-items: center;
+  padding-right: 20px;
+  position: relative;
+}
+h3 {
+  font-size: 20px;
+  color: #100101;
+}
+.textKoi {
+  width: 100%;
+}
+p {
+  color: #808080;
+  font-size: 13px;
+  font-family: "Noto Sans Khmer", sans-serif;
+}
+
+.img-koi {
+  width: 150px;
+  height: 150px;
+  border-radius: 6px;
+  background-color: #fafafabf;
+  object-fit: cover;
+  padding: 10px 0;
+  margin: 10px 0;
+}
+.img-koi img {
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+
+.addToCard {
+  border: none;
+  position: absolute;
+  left: 89%;
+  bottom: 8%;
+  font-size: 20px;
+  background-color: #dddddd93;
+  color: red;
+  clip-path: circle(50% at 50% 50%);
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  /* padding: 20px; */
+}
+
+.addToCard:hover {
+  background-color: rgba(255, 192, 203, 0.329);
+}
+.iconAdd {
+  margin-top: 6px;
+}
